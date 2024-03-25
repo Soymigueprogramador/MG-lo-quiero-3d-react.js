@@ -7,40 +7,26 @@ const Footer = () => {
         <p> Este sitio fue creado por 'soymigueprogramador@gmail.com' </p>
         <div>
           <div>
+            
             <ul>
               <li>
-                <a
-                  href="https://www.facebook.com/miguelito.partusa1"
-                  target="_blank"
+                <a href="https://www.facebook.com/german.salazar.315" target="_blank"
                 >
                   <img
                     className="iconos-footer"
-                    src="./icons/redes sociales/facebook.png"
+                    src="../../../public/icons/redes sociales/facebook.png"
                     alt="al hacer click en este icono vas a entrar a mi facebook"
                   />
                 </a>
               </li>
             </ul>
+
             <ul>
               <li>
-                <a
-                  href="https://github.com/Soymigueprogramador"
-                  target="_blank"
-                >
+                <a href="https://www.instagram.com/mgloquiero3d/" target="_blank">
                   <img
                     className="iconos-footer"
-                    src="./icons/redes sociales/github (2).png"
-                    alt="al hacer click en este icono vas a entrar a mi github"
-                  />
-                </a>
-              </li>
-            </ul>
-            <ul>
-              <li>
-                <a href="https://www.instagram.com/salazar649/" target="_blank">
-                  <img
-                    className="iconos-footer"
-                    src="./icons/redes sociales/instagram.png"
+                    src="../../../public/icons/redes sociales/instagram.png"
                     alt="al hacer click en este icono vas a entrar a mi instagram"
                   />
                 </a>
